@@ -1,0 +1,16 @@
+{
+  "name": "nodejsserver",
+  "version": "1.0.0",
+  "description": "firstProject",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node assign.js",
+    "start-server": "node assign.js"
+  },
+  "author": "balakumar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
